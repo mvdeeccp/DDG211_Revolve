@@ -27,15 +27,23 @@ public class DragDrop : MonoBehaviour
     {
         isDragging = false;
 
-       
         float gridX = Mathf.Round(transform.position.x);
         float gridY = Mathf.Round(transform.position.y);
 
         transform.position = new Vector3(gridX, gridY, 0);
 
-       // GameManager gameManager = FindObjectOfType<GameManager>();
-        //gameManager.CheckWin();
+        int x = Mathf.RoundToInt(gridX);
+        int y = Mathf.RoundToInt(gridY);
 
+        if (GameManager.Instance != null) //NullReferenceException
+        {
+            if (x >= 0 && x < 3 && y >= 0 && y < 3)
+            {
+                GameManager.Instance.currentGrid[x, y] = 1;
+            }
+            GameManager.Instance.CheckWin();
+        }
     }
+
 
 }

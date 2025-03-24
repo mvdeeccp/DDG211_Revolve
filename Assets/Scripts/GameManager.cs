@@ -4,16 +4,31 @@ using UnityEngine;
 
 public class GameManager : MonoBehaviour
 {
-    public int[,] targetGrid = new int[3, 3]
+    public static GameManager Instance; // 
+
+    public int[,] targetGrid = new int[3, 3]  // 
     {
         { 1, -1, 1 },
         { -1, 1, -1 },
         { 1, -1, 1 }
     };
 
-    public int[,] currentGrid = new int[3, 3];
+    public int[,] currentGrid = new int[3, 3]; // 
 
-    public bool CheckWin()
+    private void Awake()
+    {
+        if (Instance == null)
+        {
+            Instance = this;
+            Debug.Log("GameManager Instance");
+        }
+        else
+        {
+            Destroy(gameObject);
+        }
+    }
+
+    public void CheckWin()
     {
         for (int x = 0; x < 3; x++)
         {
@@ -21,11 +36,11 @@ public class GameManager : MonoBehaviour
             {
                 if (currentGrid[x, y] != targetGrid[x, y])
                 {
-                    return false;
+                    return; // 
                 }
             }
         }
-        Debug.Log("you win!");
-        return true;
+
+        Debug.Log("win");
     }
 }
