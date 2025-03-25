@@ -1,0 +1,2561 @@
+fileFormatVersion: 2
+guid: c1fde0d52148dce4ca10888699da5862
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 92}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PastelUIFree_54
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 242
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b91249a42740ad4fa01690a4bd56c03
+      internalID: 929949165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_63
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 211
+        width: 87
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f46410000575e49a18f58636f3d8fe
+      internalID: 160322433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_65
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 210
+        width: 57
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224fcd310a5fe794bbf0bffc82229be1
+      internalID: -112546435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_80
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 187.33333
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599c828953d9e044fb955834b81f6ad1
+      internalID: -1877414044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 187.33333
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a8f1fcdfcdc57468a2869cd6dfb85b
+      internalID: -1123594166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_82
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 187.33333
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55fb031f0ad81844affd6796a9f6bc1
+      internalID: -1028402181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_83
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 187.33333
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91040ebf96b7a554d94c90952f740cdd
+      internalID: -559511073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_84
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 187.33333
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f8ca9c05f6e8948b4645d535dedca1
+      internalID: -973205936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_85
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 187.33333
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870da789880df5041b5b76fa6bf40e11
+      internalID: 199614299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_86
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 187.33333
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7a2c684155c9d418637b968b3d6a11
+      internalID: 1860953100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_87
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 187.33333
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75b53a7aaed2f34f9aa0c35906fa189
+      internalID: 1943004270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_88
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 187.33333
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1b01fc6c878f945b3061ca65bb1a49
+      internalID: -924719748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_89
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 187.33333
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471028c06a214b241a8677a03ad054c7
+      internalID: 1895239836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_90
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 187.33333
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ec24a2ed3c64344b40cad463433438
+      internalID: 324590586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_91
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 187.33333
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f12660c50e046a4ca138b52685b734b
+      internalID: -1184761886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_92
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 171.33333
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7bd083ee3ede7c468e4962e82cd3730
+      internalID: 1163104500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_93
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 171.33333
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9567b1ff252c2c2468bb5089e2858178
+      internalID: 2040256551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_94
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 171.33333
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94fc9351c511b45418e3f8b14f1ab5b5
+      internalID: 1972173488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_95
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 171.33333
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cfc7d95de1ba3a429f1fce103a800ed
+      internalID: 361345313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_96
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 171.33333
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646c0259b0a8cac4e8555af29451e196
+      internalID: 1929012554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_97
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 171.33333
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46812a85515ca1840a8c901c65b26456
+      internalID: -1809212513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_98
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 171.33333
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703ea4eae10f9554e8198f27c3ec481b
+      internalID: 293213311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_99
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 171.33333
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3ab31afe4f8d44c84db910f28b7e9e
+      internalID: 1148447212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_100
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 171.33333
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd676350484c0ce469bbe6c669e9bd14
+      internalID: 1370240725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_101
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 171.33333
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81116518ff30344439e65328555320b4
+      internalID: 1361304125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_102
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 171.33333
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068f5dcbe475cd244bf15124115e54e9
+      internalID: -1453184021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_103
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 171.33333
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e91b5261f408f46b17ce7f90626080
+      internalID: -2068846433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_104
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 155.33333
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e21323096296e3448bd836bf257aff6
+      internalID: 398830072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_105
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 155.33333
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7712871449a740744ba3ac8da8213f50
+      internalID: 468268401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_106
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 155.33333
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d40f7cb0f36364abe690b96a658364
+      internalID: -1804436121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_107
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 155.33333
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdec65eeb0c3984ba80087b2feccd3e
+      internalID: 1296500567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_108
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 155.33333
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b04ad26856f9e4f9631885a8d2709b
+      internalID: -1065988856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_109
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 155.33333
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb688579ae2cf54697111981f47526c
+      internalID: 1001483000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_110
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 155.33333
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad204d8546a68c34aa513a4673265c2c
+      internalID: 803913075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_111
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 155.33333
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd05aa4996d5da4a9a94a3ffac2d985
+      internalID: -348553360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_112
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 155.33333
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4133760832782747a6c8e1c4f9aaa6e
+      internalID: 981595532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_113
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 155.33333
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a14779342c832f4ba331805e746d65e
+      internalID: -1780654792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_114
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 155.33333
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a67070565c37704db6d2f723d843fa0
+      internalID: 63167272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_115
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 155.33333
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9813c2da946884b931277aa0600118
+      internalID: 1149198577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_116
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 139.33333
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5dc1909d466734c97db30d8f3aef30
+      internalID: 211350629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_117
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 139.33333
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6759589c8d4138340af050880883bb50
+      internalID: 2040653430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_118
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 139.33333
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c3af8b868ffd241a02a9bbd5abd467
+      internalID: -470135252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_119
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 139.33333
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f81ac94750aa94bae4a541099ea197
+      internalID: -1343806571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_120
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 139.33333
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfd9d633d99beb44af00ddec415a525
+      internalID: 152533866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_121
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 139.33333
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbe013145a3ba4439f45f5269296a19
+      internalID: 1881471093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_122
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 139.33333
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adad4ba26e5ab1540868de998d1c5d8a
+      internalID: 766701388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_123
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 139.33333
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c381d33cac033240923112637f12f97
+      internalID: 965842550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_124
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 139.33333
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c905a9db0180db44a22ce915b4526f3
+      internalID: -891756211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_125
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 139.33333
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c99c2be2998f34488f97a1140af40e
+      internalID: -427642007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_126
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 139.33333
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67aba8e6f455a7489ace001fa50b670
+      internalID: -123997827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_127
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 139.33333
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7dff8a5f712a848810cced6e667703
+      internalID: 1877647822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_128
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 123.333336
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f65aa13aff9ca48a9141e2daf83677
+      internalID: 841416642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_129
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 123.333336
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64e1ac8b2932ff43aa6d52d70d066e7
+      internalID: -672148280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_130
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 123.333336
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e839b9584197b47a92e358ade206f3
+      internalID: 837963215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_131
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 123.333336
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1fad22b6bfd4a44acb36e4a1408225
+      internalID: 1999428822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_132
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 123.333336
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1d4dc6319f7b34a97771f0044e89c0
+      internalID: -1820389678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_133
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 123.333336
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c93a213a780844f96e85dee8e83741
+      internalID: 1214514079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_134
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 123.333336
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f1a277610bcfe448864a9ce296f86a
+      internalID: -609768250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_135
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 123.333336
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062557e559153924e87bbe0fb921d894
+      internalID: 391920872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_140
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 107.333336
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d121a914d47324aa561c53a2b64c03
+      internalID: -1131295066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_141
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 107.333336
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e82ce5384fbc24d9db7a35d5563644
+      internalID: -840116267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_142
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 107.333336
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e7e310232f55b4e8a0f7e0a7933e19
+      internalID: -1961258616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_143
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 107.333336
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbd279b8dbf68e4598229c1d57efb2f
+      internalID: 311501450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_144
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 107.333336
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a381165ac985964780b0d121578c839
+      internalID: 1642285145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_145
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 107.333336
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1794995d131284a9fb63124b732baf
+      internalID: -1084063528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_146
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 107.333336
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129a12243af3ed8449ec766e69ea04e8
+      internalID: 2083045036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_147
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 107.333336
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc05d435847c4f45aa5d578ec8e1969
+      internalID: 125351223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_148
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 109
+        width: 52
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5ad31144c504b47bae994f9eb3393d
+      internalID: 1317973731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_152
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 91.333336
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a45dd6aae89f1498fb123d6bf4b49d
+      internalID: -907090425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_153
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 91.333336
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9136713c82252ef4280da81367175c12
+      internalID: 1765337721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_154
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 91.333336
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760b3d53cba1ca248ab8a9d2ee8ce921
+      internalID: -1420571975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_155
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 91.333336
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2348f6ba75e33e64898e4a72ac2df4dd
+      internalID: -1668484377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_156
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 91.333336
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090459c8673734840a33d8b5af6259d8
+      internalID: -1929142516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_157
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 91.333336
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b7f9a70f795fa4d951b804cedc5bc1
+      internalID: 1069522718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_158
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 93
+        width: 52
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b589231ed281e94baac87dd135f2111
+      internalID: -1469027184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_162
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 75.333336
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2fafbcbee7f34143879e078c64b8007
+      internalID: 1148456180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_163
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 75.333336
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375a563dec2ceb4419e7b566ca363417
+      internalID: -1711354008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_164
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 75.333336
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281abee3ca5525142b10d4dd4134ec95
+      internalID: 541471368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_165
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 75.333336
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb73b040eb5d864387cef1518f67c4c
+      internalID: 251587062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_166
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 75.333336
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91b464fc2555274a85d01934306e1da
+      internalID: -1259459594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_167
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 75.333336
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75421b8f15a3994b85d5cdcbd575bb4
+      internalID: -838977382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_168
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 77
+        width: 52
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07519cd7eb0fa4c4b9a80a2d8bb27245
+      internalID: 347601265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_172
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 59.333336
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e46d0dbf7fe0cd4aa84839b02220af3
+      internalID: -1117670165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_173
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 59.333336
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033e5926f5526104985592ea1e3fb007
+      internalID: 557955715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_174
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 59.333336
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0a534316c63054ea626bd9dc30ab40
+      internalID: 33097806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_175
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 59.333336
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9b181ad23037e4dbfa629ada46acd8
+      internalID: 1330718408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_176
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 59.333336
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3995b14e59e659d40ae24f51908528b7
+      internalID: -1958837605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_177
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 59.333336
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb56df02d3139140befd19ff20fc9b2
+      internalID: -1940765090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_178
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 61
+        width: 52
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a56a8f0a42234439acb92d8b549c0f
+      internalID: -1422656933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_182
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 43.333336
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38625535f79a8424f815dcae13f218a1
+      internalID: -305243334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_183
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 43.333336
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc42d32df55b0f4f9a482903fd28847
+      internalID: 1960861219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_184
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 43.333336
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca04b5e2004a9b2469d769aecf9aef2c
+      internalID: 860698030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_185
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 43.333336
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea534f96c5da9f49b3145225976b2f0
+      internalID: -335943426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_186
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 43.333336
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55990ff90a4367f418f1d42f8639a926
+      internalID: -1367235356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_187
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 43.333336
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324b4c2f8b03bce40927fce35743fc76
+      internalID: -833173646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_188
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 27.333334
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a13f4d2e4ccde4dac8af31b11811d6
+      internalID: -1755111840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_189
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 27.333334
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c57dc56b1fe184e8aa7b3e61ee4fe2
+      internalID: -482879107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_190
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 27.333334
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ef9ea66dd3d3648bc3a0ee0bc2a39d
+      internalID: -599111259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_191
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 27.333334
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1df06b98cbf6540a1161e8283768e3
+      internalID: 809837226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_192
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 27.333334
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a33eddda0bc4364ab2b4ecb6e9f16e4
+      internalID: 1137727814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_193
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 27.333334
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eca1cc78c010bf408fa67a51cc834d5
+      internalID: 1686216236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_194
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 11.333334
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0604fa76fc5cd7d438b1fbaad674606a
+      internalID: -879526515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_195
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 11.333334
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8972fc6c1cc701e49b620ae95321a9da
+      internalID: -1256339367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_196
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 11.333334
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f703e7ee6002e74281e1073acf60709
+      internalID: -535795052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_197
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 11.333334
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f21b1401843bf745b023c43e0990195
+      internalID: -1947841951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_198
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 11.333334
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3a9ff79b7737c4fbb306e08b73b941
+      internalID: -72989040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PastelUIFree_199
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 11.333334
+        width: 16
+        height: 16.666666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119d89e9675cb0d4e9537d03187d2f65
+      internalID: -1785925764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PastelUIFree_0: 933947253
+      PastelUIFree_1: 422524698
+      PastelUIFree_10: 1704225703
+      PastelUIFree_100: 1370240725
+      PastelUIFree_101: 1361304125
+      PastelUIFree_102: -1453184021
+      PastelUIFree_103: -2068846433
+      PastelUIFree_104: 398830072
+      PastelUIFree_105: 468268401
+      PastelUIFree_106: -1804436121
+      PastelUIFree_107: 1296500567
+      PastelUIFree_108: -1065988856
+      PastelUIFree_109: 1001483000
+      PastelUIFree_11: -1353049594
+      PastelUIFree_110: 803913075
+      PastelUIFree_111: -348553360
+      PastelUIFree_112: 981595532
+      PastelUIFree_113: -1780654792
+      PastelUIFree_114: 63167272
+      PastelUIFree_115: 1149198577
+      PastelUIFree_116: 211350629
+      PastelUIFree_117: 2040653430
+      PastelUIFree_118: -470135252
+      PastelUIFree_119: -1343806571
+      PastelUIFree_12: 2024436880
+      PastelUIFree_120: 152533866
+      PastelUIFree_121: 1881471093
+      PastelUIFree_122: 766701388
+      PastelUIFree_123: 965842550
+      PastelUIFree_124: -891756211
+      PastelUIFree_125: -427642007
+      PastelUIFree_126: -123997827
+      PastelUIFree_127: 1877647822
+      PastelUIFree_128: 841416642
+      PastelUIFree_129: -672148280
+      PastelUIFree_13: 142493480
+      PastelUIFree_130: 837963215
+      PastelUIFree_131: 1999428822
+      PastelUIFree_132: -1820389678
+      PastelUIFree_133: 1214514079
+      PastelUIFree_134: -609768250
+      PastelUIFree_135: 391920872
+      PastelUIFree_136: -67511762
+      PastelUIFree_137: -1559326095
+      PastelUIFree_138: -876747012
+      PastelUIFree_139: 419738239
+      PastelUIFree_14: -1100796541
+      PastelUIFree_140: -1131295066
+      PastelUIFree_141: -840116267
+      PastelUIFree_142: -1961258616
+      PastelUIFree_143: 311501450
+      PastelUIFree_144: 1642285145
+      PastelUIFree_145: -1084063528
+      PastelUIFree_146: 2083045036
+      PastelUIFree_147: 125351223
+      PastelUIFree_148: 1317973731
+      PastelUIFree_149: 394612458
+      PastelUIFree_15: 1100072701
+      PastelUIFree_150: 574461086
+      PastelUIFree_151: -1970770651
+      PastelUIFree_152: -907090425
+      PastelUIFree_153: 1765337721
+      PastelUIFree_154: -1420571975
+      PastelUIFree_155: -1668484377
+      PastelUIFree_156: -1929142516
+      PastelUIFree_157: 1069522718
+      PastelUIFree_158: -1469027184
+      PastelUIFree_159: -2013638475
+      PastelUIFree_16: -1130081978
+      PastelUIFree_160: -233525541
+      PastelUIFree_161: 1194390872
+      PastelUIFree_162: 1148456180
+      PastelUIFree_163: -1711354008
+      PastelUIFree_164: 541471368
+      PastelUIFree_165: 251587062
+      PastelUIFree_166: -1259459594
+      PastelUIFree_167: -838977382
+      PastelUIFree_168: 347601265
+      PastelUIFree_169: -1626008990
+      PastelUIFree_17: -1310765533
+      PastelUIFree_170: 1908482721
+      PastelUIFree_171: -1381492749
+      PastelUIFree_172: -1117670165
+      PastelUIFree_173: 557955715
+      PastelUIFree_174: 33097806
+      PastelUIFree_175: 1330718408
+      PastelUIFree_176: -1958837605
+      PastelUIFree_177: -1940765090
+      PastelUIFree_178: -1422656933
+      PastelUIFree_179: 667911918
+      PastelUIFree_18: 2083832036
+      PastelUIFree_180: -1341739345
+      PastelUIFree_181: 2078920225
+      PastelUIFree_182: -305243334
+      PastelUIFree_183: 1960861219
+      PastelUIFree_184: 860698030
+      PastelUIFree_185: -335943426
+      PastelUIFree_186: -1367235356
+      PastelUIFree_187: -833173646
+      PastelUIFree_188: -1755111840
+      PastelUIFree_189: -482879107
+      PastelUIFree_19: -931161375
+      PastelUIFree_190: -599111259
+      PastelUIFree_191: 809837226
+      PastelUIFree_192: 1137727814
+      PastelUIFree_193: 1686216236
+      PastelUIFree_194: -879526515
+      PastelUIFree_195: -1256339367
+      PastelUIFree_196: -535795052
+      PastelUIFree_197: -1947841951
+      PastelUIFree_198: -72989040
+      PastelUIFree_199: -1785925764
+      PastelUIFree_2: 350447619
+      PastelUIFree_20: 415898645
+      PastelUIFree_21: -1950972673
+      PastelUIFree_22: -1284239656
+      PastelUIFree_23: 881624049
+      PastelUIFree_24: 1779334086
+      PastelUIFree_25: -194920891
+      PastelUIFree_26: 399069303
+      PastelUIFree_27: 1050035054
+      PastelUIFree_28: -272961115
+      PastelUIFree_29: 301040873
+      PastelUIFree_3: -272173634
+      PastelUIFree_30: -1256330442
+      PastelUIFree_31: 1723523803
+      PastelUIFree_32: 726919910
+      PastelUIFree_33: 834240504
+      PastelUIFree_34: -1991378504
+      PastelUIFree_35: 656080772
+      PastelUIFree_36: -1660476698
+      PastelUIFree_37: -1081960864
+      PastelUIFree_38: 1943576179
+      PastelUIFree_39: -1585274743
+      PastelUIFree_4: -231392527
+      PastelUIFree_40: -1656791992
+      PastelUIFree_41: -335538543
+      PastelUIFree_42: 607531926
+      PastelUIFree_43: -1654353566
+      PastelUIFree_44: 1899507506
+      PastelUIFree_45: 1850874628
+      PastelUIFree_46: 1690272129
+      PastelUIFree_47: 1230228027
+      PastelUIFree_48: 2112724128
+      PastelUIFree_49: -642085293
+      PastelUIFree_5: -878567786
+      PastelUIFree_50: -2079654064
+      PastelUIFree_51: -1753554270
+      PastelUIFree_52: -2102819727
+      PastelUIFree_53: 207584505
+      PastelUIFree_54: 929949165
+      PastelUIFree_55: 1618659431
+      PastelUIFree_56: 308037600
+      PastelUIFree_57: -686921729
+      PastelUIFree_58: -505436317
+      PastelUIFree_59: -1885862005
+      PastelUIFree_6: -517669396
+      PastelUIFree_60: -81258546
+      PastelUIFree_61: 655895621
+      PastelUIFree_62: -1219319277
+      PastelUIFree_63: 160322433
+      PastelUIFree_64: -998737767
+      PastelUIFree_65: -112546435
+      PastelUIFree_66: -492741711
+      PastelUIFree_67: 641041268
+      PastelUIFree_68: -82916399
+      PastelUIFree_69: -971175024
+      PastelUIFree_7: -1795824850
+      PastelUIFree_70: 383600194
+      PastelUIFree_71: 1126955127
+      PastelUIFree_72: -936806899
+      PastelUIFree_73: -1637136784
+      PastelUIFree_74: -1671133469
+      PastelUIFree_75: 1775024390
+      PastelUIFree_76: 1841069568
+      PastelUIFree_77: -2144868123
+      PastelUIFree_78: -5994610
+      PastelUIFree_79: -166341354
+      PastelUIFree_8: 548980565
+      PastelUIFree_80: -1877414044
+      PastelUIFree_81: -1123594166
+      PastelUIFree_82: -1028402181
+      PastelUIFree_83: -559511073
+      PastelUIFree_84: -973205936
+      PastelUIFree_85: 199614299
+      PastelUIFree_86: 1860953100
+      PastelUIFree_87: 1943004270
+      PastelUIFree_88: -924719748
+      PastelUIFree_89: 1895239836
+      PastelUIFree_9: -810134910
+      PastelUIFree_90: 324590586
+      PastelUIFree_91: -1184761886
+      PastelUIFree_92: 1163104500
+      PastelUIFree_93: 2040256551
+      PastelUIFree_94: 1972173488
+      PastelUIFree_95: 361345313
+      PastelUIFree_96: 1929012554
+      PastelUIFree_97: -1809212513
+      PastelUIFree_98: 293213311
+      PastelUIFree_99: 1148447212
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
