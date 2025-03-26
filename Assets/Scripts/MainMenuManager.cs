@@ -7,15 +7,31 @@ public class MainMenuManager : MonoBehaviour
 {
 
     public GameObject settingsPanel;
+    public GameObject TutorialPanel;
 
     public void PlayGame()
     {
-        SceneManager.LoadScene("SampleScene"); // ชื่อ Scene ของเกมหลัก
+        SceneManager.LoadScene("Level1"); // ชื่อ Scene ของเกมหลัก
     }
 
     public void Tutorial()
     {
-        SceneManager.LoadScene("SampleScene");
+        SceneManager.LoadScene("Tutorial");
+    }
+
+    public void Main()
+    {
+        SceneManager.LoadScene("MainMenu");
+    }
+
+    public void OpenTutorial()
+    {
+        TutorialPanel.SetActive(true); // เปิด Panel
+    }
+
+    public void CloseTutorial()
+    {
+        TutorialPanel.SetActive(false); // ปิด Panel
     }
 
     public void OpenSettings()
