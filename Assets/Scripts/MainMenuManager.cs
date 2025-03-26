@@ -5,7 +5,6 @@ using UnityEngine.SceneManagement;
 
 public class MainMenuManager : MonoBehaviour
 {
-
     public GameObject settingsPanel;
     public GameObject TutorialPanel;
     public GameObject LevelPanel;
@@ -72,7 +71,7 @@ public class MainMenuManager : MonoBehaviour
     {
         Application.Quit();
 
-        UnityEditor.EditorApplication.isPlaying = false; // สำหรับออกจาก Play Mode ใน Unity Editor
+        //UnityEditor.EditorApplication.isPlaying = false; 
 
     }
     void Update()
