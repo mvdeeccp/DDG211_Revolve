@@ -8,10 +8,21 @@ public class MainMenuManager : MonoBehaviour
 
     public GameObject settingsPanel;
     public GameObject TutorialPanel;
+    public GameObject LevelPanel;
+    public GameObject creditsPanel;
 
-    public void PlayGame()
+    public RectTransform creditsText;
+    public float scrollSpeed = 50f;
+    private bool isScrolling = false;
+
+    public void OpenLevelPanel()
     {
-        SceneManager.LoadScene("Level1"); // ชื่อ Scene ของเกมหลัก
+        LevelPanel.SetActive(true); // เปิด Panel
+    }
+
+    public void CloseLevelPanel()
+    {
+       LevelPanel.SetActive(false); // ปิด Panel
     }
 
     public void Tutorial()
@@ -44,11 +55,31 @@ public class MainMenuManager : MonoBehaviour
         settingsPanel.SetActive(false); // ปิด Panel
     }
 
+    public void OpenCredits()
+    {
+        creditsPanel.SetActive(true);
+        isScrolling = true;
+        creditsText.anchoredPosition = new Vector2(creditsText.anchoredPosition.x, -500f);
+    }
+
+    public void CloseCredits()
+    {
+        creditsPanel.SetActive(false);
+        isScrolling = false;
+    }
+
     public void QuitGame()
     {
         Application.Quit();
 
         UnityEditor.EditorApplication.isPlaying = false; // สำหรับออกจาก Play Mode ใน Unity Editor
 
+    }
+    void Update()
+    {
+        if (isScrolling)
+        {
+            creditsText.anchoredPosition += new Vector2(0, scrollSpeed * Time.deltaTime);
+        }
     }
 }

@@ -1844,7 +1844,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 9d1b7f4946cb2614f873fef204f3c2da, type: 3}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 0
@@ -2315,7 +2315,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: d6912a86fe6db1c4b8333054df74d420, type: 3}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 0
@@ -2803,6 +2803,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   settingsPanel: {fileID: 654172377}
   TutorialPanel: {fileID: 1930508643}
+  LevelPanel: {fileID: 0}
+  creditsPanel: {fileID: 0}
+  creditsText: {fileID: 0}
+  scrollSpeed: 50
 --- !u!4 &638142555
 Transform:
   m_ObjectHideFlags: 0
