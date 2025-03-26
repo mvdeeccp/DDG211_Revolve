@@ -13,6 +13,11 @@ public class MainMenuManager : MonoBehaviour
         SceneManager.LoadScene("SampleScene"); // ชื่อ Scene ของเกมหลัก
     }
 
+    public void Tutorial()
+    {
+        SceneManager.LoadScene("SampleScene");
+    }
+
     public void OpenSettings()
     {
         settingsPanel.SetActive(true); // เปิด Panel
